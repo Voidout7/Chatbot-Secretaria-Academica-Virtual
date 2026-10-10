@@ -41,35 +41,12 @@ O chatbot não substitui a equipe do SAV: ele filtra o que é repetitivo e entre
 
 | Integrante | Frente principal | Papel no Scrum |
 |---|---|---|
-| David | Back-end e integração | Scrum Master |
+| David | Back-end e integração | Desenvolvedor |
 | Gabriel | Inteligência / PLN | Desenvolvedor |
 | Ian | Front-end e UX | Desenvolvedor |
-| Indaiá | Requisitos, qualidade e documentação | Product Owner |
-
-## Cronograma
-
-Método: Scrum adaptado, 6 sprints, de 05/10/2026 a 11/12/2026. Detalhes completos em [`docs/Cronograma.pdf`](docs/Cronograma.pdf).
-
-| Sprint | Período | Foco |
-|---|---|---|
-| 0 | 05/10 a 11/10 | Planejamento |
-| 1 | 12/10 a 25/10 | Levantamento e prototipação |
-| 2 | 26/10 a 08/11 | Base do sistema (MVP em 08/11) |
-| 3 | 09/11 a 22/11 | Triagem e encaminhamento |
-| 4 | 23/11 a 06/12 | Testes com usuários e ajustes |
-| 5 | 07/12 a 11/12 | Entrega e defesa |
-
-## Estrutura do repositório
-
-```
-.
-├── README.md
-├── docs/
-│   └── Cronograma.pdf
-├── src/          # código-fonte (back-end, front-end, módulo de IA)
-└── .gitignore
-```
+| Indaiá | Requisitos, qualidade e documentação | Scrum Master |
 
 ## Links
 
-- [Formulário de Avaliação](https://docs.google.com/forms/d/e/1FAIpQLSdplX-vxtJQnkJo8aCcxSn-VV-2HvkT6UrDKd3g3WWMSBYGYw/viewform)
+- [Formulário de Avaliação - Funcionários](https://docs.google.com/forms/d/e/1FAIpQLSdplX-vxtJQnkJo8aCcxSn-VV-2HvkT6UrDKd3g3WWMSBYGYw/viewform)
+- [Formulário de Avaliação - Alunos](https://docs.google.com/forms/d/e/1FAIpQLSd9Qv6oN9sl4DnQyCMVb3nRGv7ra48N-dSmToLwbfOd324Brg/viewform)
